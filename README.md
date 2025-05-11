@@ -112,9 +112,8 @@
 ---
 
 ## 🐍 Contributions Snake
-<p align="center">
-  <img src="https://github.com/Harshavardhanjakku/Harshavardhanjakku/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+![snake animation](https://github.com/Harshavardhanjakku/Harshavardhanjakku/blob/output/github-contribution-grid-snake2.svg)
+
 
 
 ---
