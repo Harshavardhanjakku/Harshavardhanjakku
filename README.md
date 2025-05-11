@@ -1,22 +1,31 @@
 <h1 align="center">Hi 👋, I'm Jakku Harshavardhan</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Cloud Intern @ AWS</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=B.Tech+CS+@+SR+University+(CGPA:+9.47);Full+Stack+%7C+AI+%7C+Cloud+Learner;Open+Source+%7C+Hackathons+%7C+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student+@+SR+University;Full+Stack+Developer;AI+%26+ML+Explorer;AWS+Cloud+Intern;Hackathon+Winner+%F0%9F%8E%89" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-- 🧑‍🎓 **B.Tech CSE (2022–26)** @ SR University  
-- 🏆 Winner @ **SRU Idea Conclave**, Finalist @ **Smart India Hackathon**
-- 🔭 Intern @ **AWS Cloud** & **Triyas Tech (Full Stack Dev)**
-- 💡 Skilled in AI chatbots, full-stack apps, and backend optimization
-- 📧 Reach me: jakkuharshavardhan2004@gmail.com
+- 🎓 3rd Year B.Tech CSE at **SR University**, CGPA: **9.47**
+- 🔭 Currently interning at **AWS Cloud** & **Triyas Tech Solutions**
+- 🧠 Actively working on **AI-powered apps** and **full-stack projects**
+- 🏆 Winner @ SRU Idea Conclave, Finalist @ Smart India Hackathon
+- 💬 Ask me about **Python, Databases, AWS, Full Stack Web Dev**
+- 📫 Reach me at **jakkuharshavardhan2004@gmail.com**
 
 ---
 
+## 💼 Featured Projects
+
+🔹 [Fact Finder AI](https://github.com/Harshavardhanjakku/Fact-Finder-Ai): Fake news detection using NLP and ML with 92% accuracy  
+🔹 [Calendar using DS & DB](https://github.com/Harshavardhanjakku/Calendar): CLI calendar app using C & SQLite3  
+🔹 [Student Result System](https://github.com/Harshavardhanjakku/Student-Result-Management-System): Automated 500+ records with Python & MySQL  
+
+---
 ## 🔧 Languages
 
 <p align="center">
@@ -64,32 +73,51 @@
 
 ## 🏆 Achievements
 
-- 🥇 AI chatbot won 1st place @ SRU Idea Conclave
-- 💬 Automated 150+ queries @ SIH Hackathon Grand Finale
-- 🧠 Scored Top 10 GPA in class + CodeClash @ VIT IEEE TEMS
+- 🥇 Winner of SRU Idea Conclave for an AI chatbot project
+- 🧠 Finalist in **SIH Hackathon Grand Finale**, automated 150+ customer queries
+- 👨‍💻 Ranked Top 10 in GPA & IEEE TEMS CodeClash at VIT Vellore
+- 🏁 Completed AWS, Generative AI, and Full Stack certifications
 
 ---
 
-## 📈 GitHub Stats
-
-<table align="center">
-<tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=Harshavardhanjakku&show_icons=true&theme=gruvbox" height="180"/></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhanjakku&layout=compact&theme=gruvbox" height="180"/></td>
-</tr>
-</table>
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshavardhanjakku&theme=gruvbox" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshavardhanjakku&theme=radical&row=1&margin-w=15&margin-h=15" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshavardhanjakku&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhanjakku&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshavardhanjakku&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshavardhanjakku&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
 ## 🐍 Contributions Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Harshavardhanjakku/Harshavardhanjakku/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
