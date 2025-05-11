@@ -1,53 +1,79 @@
-  <h1 align="center">
-  <b>Abhigyan Trips</b>
-</h1>
-<p>Heya! I’m Abhigyan Tripathi, a student currently living in Mumbai, India. I’m preparing for
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,
-and learning programming through small projects  on the side.</p>
-<br>
-<p>
-</p><div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&amp;logo=html5&amp;logoColor=c58545&amp;labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&amp;logo=css3&amp;logoColor=d1a01f&amp;labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&amp;logo=python&amp;logoColor=98b982&amp;labelColor=282828">
-</div>
-<p></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> AbhigyanTrips</span><span style="color:#E1E4E8">():</span></span>
-<span class="line"><span style="color:#E1E4E8">    </span></span>
-<span class="line"><span style="color:#F97583">  def</span><span style="color:#79B8FF"> __init__</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.name </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Abhigyan Tripathi"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.username </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "abhigyantrips"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.location </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "Mumbai, India"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.twitter </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "@abhigyantrips"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#79B8FF">    self</span><span style="color:#E1E4E8">.web </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "https://abhigyantrips.dev"</span><span style="color:#FDAEB7;font-style:italic">;</span></span>
-<span class="line"><span style="color:#E1E4E8">  </span></span>
-<span class="line"><span style="color:#F97583">  def</span><span style="color:#79B8FF"> __str__</span><span style="color:#E1E4E8">(self):</span></span>
-<span class="line"><span style="color:#F97583">    return</span><span style="color:#79B8FF"> self</span><span style="color:#E1E4E8">.name</span></span>
-<span class="line"></span>
-<span class="line"><span style="color:#F97583">if</span><span style="color:#79B8FF"> __name__</span><span style="color:#F97583"> ==</span><span style="color:#9ECBFF"> '__main__'</span><span style="color:#E1E4E8">:</span></span>
-<span class="line"><span style="color:#E1E4E8">    me </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> AbhigyanTrips()</span></span></code></pre>
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-<h2 id="my-statistics">My Statistics</h2>
-<br>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&amp;theme=gruvbox&amp;hide_border=true">
-  </a>
+# Hi there, I'm Jakku Harshavardhan! 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhan-jakku-26672427a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Harshavardhanjakku)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jakkuharshavardhan/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2203A51012harsha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakkuharshavardhan2004@gmail.com)
+
+---
+
+## 💫 About Me
+
+I'm **Jakku Harshavardhan**, a passionate B.Tech CSE student at **SR University**, specializing in **DSA and Software Engineering** with a current CGPA of **9.47**. I'm deeply interested in full-stack development, AI/ML, and cloud computing. Currently enhancing my skills through exciting internships and leading impactful projects in both backend systems and AI-based apps.
+
+---
+
+## 🔨 Projects
+
+- 🚀 [**Fact Finder AI**](https://github.com/Harshavardhanjakku/Fact-Finder-Ai) – Fake news detector using NLP & ML with 92% accuracy  
+- 📅 [**Calendar using DS & DB Engine**](https://github.com/Harshavardhanjakku/Calendar) – Calendar in C with SQLite, storing 50+ events  
+- 🎓 [**Student Result Management System**](https://github.com/Harshavardhanjakku/Student-Result-Management-System) – Full-stack result tracker for 500+ students  
+
+---
+
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PLSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner of SRU Idea Conclave for an AI chatbot project
+- 🧠 Finalist in **SIH Hackathon Grand Finale**, automated 150+ customer queries
+- 👨‍💻 Ranked Top 10 in GPA & IEEE TEMS CodeClash at VIT Vellore
+- 🏁 Completed AWS, Generative AI, and Full Stack certifications
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshavardhanjakku&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
-<br>
-<p><a href="https://abhigyantrips.dev"><img src="https://activity-graph.herokuapp.com/graph?username=abhigyantrips&amp;custom_title=Abhigyan%20Trips's%20Contribution%20Graph&amp;theme=gruvbox&amp;bg_color=282828&amp;hide_border=true&amp;line=d1a01f&amp;point=c58545" alt="Abhigyan Trips' Activity Graph"></a></p>
-<hr>
-<p>Credit: <a href="https://github.com/abhigyantrips">abhigyantrips</a></p>
-<p>Last Edited on: 24/12/2021</p> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhanjakku&layout=compact&theme=tokyonight" alt="Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshavardhanjakku&theme=tokyonight" alt="Streaks" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark" alt="Graph" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 🔭 Currently interning at **Triyas Tech Solutions** and **AWS Cloud**
+- 💬 Ask me about Python, Databases, or Full Stack Web Dev
+- 📫 Reach me at **jakkuharshavardhan2004@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshavardhanjakku&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views"/>
+</p>
