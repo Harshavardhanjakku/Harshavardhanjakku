@@ -83,8 +83,9 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshavardhanjakku&theme=radical&row=1&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshavardhanjakku&theme=tokyonight&row=1&margin-w=15&margin-h=15" />
 </p>
+
 
 ---
 
@@ -106,9 +107,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshavardhanjakku&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 
 ---
