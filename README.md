@@ -108,16 +108,14 @@
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/harshavardhan-jakku-26672427a)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>](https://linkedin.com/in/yourprofile)  
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>](https://github.com/Harshavardhanjakku)  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"/>](https://leetcode.com/yourusername)  
+[<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="25"/>](https://www.hackerrank.com/yourusername)  
+[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" width="25"/>](mailto:your.email@gmail.com)
 
-- ![image](https://github.com/user-attachments/assets/94d0871f-8936-44be-9bcf-ed5bc0a14bc1)[GitHub](https://github.com/Harshavardhanjakku)
-- [LeetCode](https://leetcode.com/u/jakkuharshavardhan/)
-[HackerRank](https://www.hackerrank.com/profile/2203A51012harsha)
-- 📧 jakkuharshavardhan2004@gmail.com
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshavardhanjakku&label=Profile%20views&color=0e75b6&style=flat" />
