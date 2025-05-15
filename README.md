@@ -113,7 +113,8 @@
 - [LinkedIn](https://www.linkedin.com/in/harshavardhan-jakku-26672427a)
 - [GitHub](https://github.com/Harshavardhanjakku)
 - [LeetCode](https://leetcode.com/u/jakkuharshavardhan/)
-- [HackerRank](https://www.hackerrank.com/profile/2203A51012harsha)
+- ![image](https://github.com/user-attachments/assets/618675f6-b204-4e16-9f5f-14438e5ace68)
+[HackerRank](https://www.hackerrank.com/profile/2203A51012harsha)
 - 📧 jakkuharshavardhan2004@gmail.com
 
 ---
