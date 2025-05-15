@@ -111,9 +111,9 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/harshavardhan-jakku-26672427a)
+- ![image](https://github.com/user-attachments/assets/94d0871f-8936-44be-9bcf-ed5bc0a14bc1)
 - [GitHub](https://github.com/Harshavardhanjakku)
 - [LeetCode](https://leetcode.com/u/jakkuharshavardhan/)
-- ![image](https://github.com/user-attachments/assets/618675f6-b204-4e16-9f5f-14438e5ace68)
 [HackerRank](https://www.hackerrank.com/profile/2203A51012harsha)
 - 📧 jakkuharshavardhan2004@gmail.com
 
