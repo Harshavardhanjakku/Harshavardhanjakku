@@ -117,11 +117,11 @@
 | <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="25"/> | [HackerRank](https://www.hackerrank.com/profile/2203A51012harsha) |
 
 ## 🐍 Contribution Snake
-![snake animation](https://github.com/Harshavardhanjakku/Harshavardhanjakku/blob/output/github-contribution-grid-snake2.svg)
-
 <picture>
-<img src="https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/output/github-contribution-grid-snake.svg" />
 </picture>
+
 ---
 
 ## 📫 Connect with Me
