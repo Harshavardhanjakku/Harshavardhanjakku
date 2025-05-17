@@ -116,7 +116,7 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"/> | [LeetCode](https://leetcode.com/u/jakkuharshavardhan/) |
 | <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="25"/> | [HackerRank](https://www.hackerrank.com/profile/2203A51012harsha) |
 
-## 🐍 Contribution Snake
+
 ## 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/output/github-contribution-grid-snake.svg)
 
