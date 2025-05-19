@@ -1,4 +1,4 @@
-<+h1 align="center">Hi 👋, I'm Jakku Harshavardhan</h1>
+<h1 align="center">Hi 👋, I'm Jakku Harshavardhan</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Cloud Intern @ AWS</h3>
 
 
@@ -107,7 +107,7 @@
 
 ## Contribution
 
- ![Snake animation](https://github.com/Harshavardhanjakku/Harshavardhanjakku/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com//Harshavardhanjakku/Harshavardhanjakku/blob/output/github-contribution-grid-snake.svg)
  
 
 ## 🌐 Connect with Me
