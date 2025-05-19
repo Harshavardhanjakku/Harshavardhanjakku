@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakku Harshavardhan</h1>
+<+h1 align="center">Hi 👋, I'm Jakku Harshavardhan</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Cloud Intern @ AWS</h3>
 
 
@@ -105,7 +105,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
+## Contribution
 
+ ![Snake animation](https://github.com/Harshavardhanjakku/Harshavardhanjakku/blob/output/github-contribution-grid-snake.svg)
+ 
 
 ## 🌐 Connect with Me
 
@@ -132,3 +135,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshavardhanjakku&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+
+
+
