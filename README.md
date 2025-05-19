@@ -105,31 +105,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
-## Contribution
-
- ![Snake animation](https://github.com//Harshavardhanjakku/Harshavardhanjakku/blob/output/github-contribution-grid-snake.svg)
- 
-
-## 🌐 Connect with Me
-
-
-| <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/> | [LinkedIn](https://www.linkedin.com/in/harshavardhan-jakku-26672427a) |
-|--------------------------------------------|------------------------------------------------------------------------|
-| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> | [GitHub](https://github.com/Harshavardhanjakku) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"/> | [LeetCode](https://leetcode.com/u/jakkuharshavardhan/) |
-| <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="25"/> | [HackerRank](https://www.hackerrank.com/profile/2203A51012harsha) |
-
-
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/harshavardhan-jakku-26672427a)
-- [GitHub](https://github.com/Harshavardhanjakku)
-- [LeetCode](https://leetcode.com/u/jakkuharshavardhan/)
-- [HackerRank](https://www.hackerrank.com/profile/2203A51012harsha)
-- 📧 jakkuharshavardhan2004@gmail.com
-
----
+🌐 Connect with Me
+<table> <tr> <td align="center"> <a href="https://www.linkedin.com/in/harshavardhan-jakku-26672427a" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/><br/> <b>LinkedIn</b> </a> </td> <td align="center"> <a href="https://github.com/Harshavardhanjakku" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/><br/> <b>GitHub</b> </a> </td> <td align="center"> <a href="https://leetcode.com/u/jakkuharshavardhan/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/><br/> <b>LeetCode</b> </a> </td> <td align="center"> <a href="https://www.hackerrank.com/profile/2203A51012harsha" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40"/><br/> <b>HackerRank</b> </a> </td> <td align="center"> <a href="mailto:jakkuharshavardhan2004@gmail.com" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40"/><br/> <b>Email</b> </a> </td> </tr> </table>
 
 
 <p align="center">
