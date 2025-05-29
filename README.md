@@ -108,8 +108,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/output/snake.svg)
 
 ---
