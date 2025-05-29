@@ -105,7 +105,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </p>
 
-Absolutely! Here's the **clean and professional version** of your original table layout with **all entries (including email) as clickable links**, using the format you prefer:
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/output/snake.svg)
 
 ---
 
