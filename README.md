@@ -165,12 +165,23 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 
 ## 🌐 Connect with Me
 
-| <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>                       | [LinkedIn](https://www.linkedin.com/in/harshavardhan-jakku-26672427a) |
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/>   | [GitHub](https://github.com/Harshavardhanjakku)                       |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"/> | [LeetCode](https://leetcode.com/u/jakkuharshavardhan/)                |
-| <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="25"/>                        | [HackerRank](https://www.hackerrank.com/profile/2203A51012harsha)     |
-| <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="25"/>                       | [Email](mailto:jakkuharshavardhan2004@gmail.com)                      |
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshavardhan-jakku-26672427a" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Harshavardhanjakku" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/jakkuharshavardhan/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/2203A51012harsha" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jakkuharshavardhan2004@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" />
+  </a>
+</p>
 
 ---
 
