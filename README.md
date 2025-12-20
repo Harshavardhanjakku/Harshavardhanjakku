@@ -19,11 +19,59 @@
 
 ---
 
-## 💼 Featured Projects
+## 🌟 Featured Projects
 
-🔹 [Fact Finder AI](https://github.com/Harshavardhanjakku/Fact-Finder-Ai): Fake news detection using NLP and ML with 92% accuracy  
-🔹 [Calendar using DS & DB](https://github.com/Harshavardhanjakku/Calendar): CLI calendar app using C & SQLite3  
-🔹 [Student Result System](https://github.com/Harshavardhanjakku/Student-Result-Management-System): Automated 500+ records with Python & MySQL  
+> **📦 Total Repositories:** **40+**  
+> *Public + Private | Full-Stack · Cloud · Systems · AI*
+
+---
+
+### 🔐 NexaAuth
+**Unified Authentication System with Keycloak**  
+Secure authentication using Keycloak & Docker with email/password login, Google IdP, role-based access control, and clean client provisioning.  
+🔗 https://github.com/Harshavardhanjakku/NexaAuth
+
+---
+
+### 🎟️ Eventify
+**Full-Stack Event Booking Platform**  
+Discover, book, and manage events with real-time seat updates, secure authentication, and async notifications built on a scalable architecture.  
+🔗 https://github.com/Harshavardhanjakku/Eventify
+
+---
+
+### 📸 CloudLens
+**S3-Based Media Management Platform**  
+Upload, preview, organize, and manage images & videos using S3-compatible storage with bulk actions and secure access.  
+🔗 https://github.com/Harshavardhanjakku/CloudLens
+
+---
+
+### 📅 BookItPro
+**Multi-Tenant Event Management System**  
+Enterprise-ready platform supporting isolated tenant spaces, role-based access, and real-time booking workflows.  
+🔗 https://github.com/Harshavardhanjakku/BookItPro
+
+---
+
+### 📄 InsightDocs
+**Real-Time Collaborative Documentation Platform**  
+Collaborative docs with version control, role-based permissions, and secure storage for modern teams.  
+🔗 https://github.com/Harshavardhanjakku/InsightDocs
+
+---
+
+### 🖼️ FrameSync
+**Enterprise Media Sharing Platform**  
+Secure, real-time media sharing for organizations using WebSockets and SSO-based authentication.  
+🔗 https://github.com/Harshavardhanjakku/Framesync
+
+---
+
+### 🧠 FragmentsToThought
+**Embedding-Based Contextual AI System**  
+Turns fragmented data into coherent, context-aware conversations using embeddings and semantic search.  
+🔗 https://github.com/Harshavardhanjakku/FragmentsToThought
 
 ---
 ## 🔧 Languages
