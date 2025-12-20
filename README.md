@@ -106,7 +106,8 @@
 </p>
 
 ## 📊 GitHub Contributor Statistics
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=HarshavardhanJakku&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=HarshavardhanJakku&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ---
 
