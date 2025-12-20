@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jakku Harshavardhan</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Cloud Intern @ AWS</h3>
+<h3 align="center">Full-Stack Developer | SDE intern | AI Enthusiast | Cloud Intern </h3>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student+@+SR+University;Full+Stack+Developer;AI+%26+ML+Explorer;AWS+Cloud+Intern;Hackathon+Winner+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Full+Stack+Developer+@+Triyas;SDE+Intern+@+PascalCase;AI+%26+ML+Explorer;AWS+Cloud+Intern;Hackathon+Winner+🎉" alt="Typing SVG" />
 </p>
+
 
 ---
 
