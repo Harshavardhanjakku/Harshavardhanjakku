@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Full+Stack+Developer+@+Triyas;SDE+Intern+@+PascalCase;AI+%26+ML+Explorer;AWS+Cloud+Intern;Hackathon+Winner+🎉;Hackathon+Secretary+@+SRU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Full+Stack+Developer+@+Triyas;SDE+Intern+@+PascalCase;AI+%26+ML+Explorer;AWS+Cloud+Intern+@+AWS;Hackathon+Winner+🎉;Hackathon+Secretary+@+SRU" alt="Typing SVG" />
 </p>
 
 
@@ -143,7 +143,7 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhanjakku&layout=compact&theme=tokyonight&langs_count=10&hide_border=false" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshavardhanjakku&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
