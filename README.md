@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | SDE Intern | AI Enthusiast | Cloud Intern | DSA Teaching Intern</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Full+Stack+Developer+@+Triyas;SDE+Intern+@+PascalCase;DSA+Teaching+Intern;AI+%26+ML+Explorer;AWS+Cloud+Intern;Hackathon+Winner+🎉;Hackathon+Secretary+@+SRU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student+@+SR+University;Full+Stack+Developer+@+Triyas;SDE+Intern+@+PascalCase;DSA+Teaching+Intern+@VIIT;AI+%26+ML+Explorer;AWS+Cloud+Intern;Hackathon+Winner+🎉;Hackathon+Secretary+@+SRU" alt="Typing SVG" />
 
 </p>
 
