@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-- 🎓 3rd Year B.Tech CSE at **SR University**, CGPA: **9.54**
+- 🎓 4th Year B.Tech CSE at **SR University**, CGPA: **9.54**
 - 🔭 Intern at **AWS Cloud** & **Triyas Tech Solutions**
 - 🧠 Actively working on **AI-powered apps** and **full-stack projects**
 - 🏆 Winner @ SRU Idea Conclave, Finalist @ Smart India Hackathon
