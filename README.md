@@ -155,7 +155,7 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 </p>
 
 ## 📊 GitHub Contributor Statistics
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=HarshavardhanJakku&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![GitHub Contributor Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshavardhanjakku&theme=tokyonight)
 
 
 ---
