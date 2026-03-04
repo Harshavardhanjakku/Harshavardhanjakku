@@ -130,7 +130,7 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshavardhanjakku&theme=tokyonight&row=1&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=Harshavardhanjakku&theme=tokyonight&row=1&margin-w=15&margin-h=15" />
 </p>
 
 
