@@ -179,9 +179,9 @@ Turns fragmented data into coherent, context-aware conversations using embedding
   <a href="https://www.hackerrank.com/profile/2203A51012harsha" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="32" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jakkuharshavardhan2004@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" />
-  </a>
+<a href="mailto:jakkuharshavardhan2004@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" />
+</a>
 </p>
 
 ---
