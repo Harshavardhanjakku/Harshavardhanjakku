@@ -17,7 +17,7 @@
 
 <ul>
   <li>🎓 Final Year B.Tech CSE at <b>SR University</b>, CGPA: <b>9.5+</b></li>
-    <li>💻 Software Engineer Intern at <b>Pascalcase Software Pvt. Ltd.</b>, Full Stack Intern at <b>Triyas Tech Solutions</b> & DSA Intern at <b>VIIT</b></li>
+    <li>💻 Software Engineer Intern at <b>Pascalcase Software Pvt. Ltd.</b>, Full Stack Intern at <b>Triyas Tech Solutions</b> & DSA Teaching Intern at <b>VIIT</b></li>
 
   <li>🚀 Built <b>20+ production-grade apps</b> using Next.js, Node.js & TypeScript</li>
   <li>🤖 Working on <b>full-stack applications, AI-powered chatbots, and strong problem-solving with DSA</b></li>
