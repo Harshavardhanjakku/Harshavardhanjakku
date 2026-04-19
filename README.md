@@ -28,8 +28,8 @@
 
 </td>
 
-<td width="200" align="right">
-  <img src="myprofile.jpeg" width="180" style="border-radius: 12px;" />
+<td width="220" align="right">
+  <img src="https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/main/myprofile.jpeg" width="200" style="border-radius: 10px; display: block;" />
 </td>
 
 </tr>
