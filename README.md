@@ -28,7 +28,7 @@
 
 </td>
 
-<td width="500" align="right" valign="top">
+<td width="300" align="right" valign="top">
   <img 
     src="https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/main/myprofile.jpeg" 
     width="220" 
