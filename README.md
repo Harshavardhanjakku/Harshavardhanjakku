@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-<table>
+<table cellpadding="0" cellspacing="0">
 <tr>
 <td>
 
@@ -28,10 +28,13 @@
 
 </td>
 
-<td width="220" align="right">
-  <img src="https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/main/myprofile.jpeg" width="200" style="border-radius: 10px; display: block;" />
+<td width="240" align="right" valign="top">
+  <img 
+    src="https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/main/myprofile.jpeg" 
+    width="220" 
+    style="border-radius: 10px; display: block; margin: 0; padding: 0;" 
+  />
 </td>
-
 </tr>
 </table>
 ---
