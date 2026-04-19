@@ -11,13 +11,29 @@
 
 ## 🌟 About Me
 
-- 🎓 4th Year B.Tech CSE at **SR University**, CGPA: **9.54**
-- 🔭 Intern at **AWS Cloud** & **Triyas Tech Solutions**
-- 🧠 Actively working on **AI-powered apps** and **full-stack projects**
-- 🏆 Winner @ SRU Idea Conclave, Finalist @ Smart India Hackathon
-- 💬 Ask me about **Python, Databases, AWS, Full Stack Web Dev**
-- 📫 Reach me at **jakkuharshavardhan2004@gmail.com**
+<table>
+<tr>
+<td>
 
+<ul>
+  <li>🎓 Final Year B.Tech CSE at <b>SR University</b>, CGPA: <b>9.5+</b></li>
+    <li>💻 Software Engineer Intern at <b>Pascalcase Software Pvt. Ltd.</b>, Full Stack Intern at <b>Triyas Tech Solutions</b> & DSA Intern at <b>VIIT</b></li>
+
+  <li>🚀 Built <b>20+ production-grade apps</b> using Next.js, Node.js & TypeScript</li>
+  <li>🤖 Working on <b>full-stack applications, AI-powered chatbots, and strong problem-solving with DSA</b></li>
+  <li>🏆 Hackathon winner, SIH finalist & <b>3+</b> patents contributor</li>
+  <li>💬 Ask me about <b>Python, Databases, DSA, Full Stack Development</b></li>
+  <li>📫 Reach me at <b>jakkuharshavardhan2004@gmail.com</b></li>
+</ul>
+
+</td>
+
+<td width="200" align="right">
+  <img src="myprofile.jpeg" width="180" style="border-radius: 12px;" />
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🌟 Featured Projects
