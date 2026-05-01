@@ -157,17 +157,21 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 <tr>
 
 <td width="48%" align="center" valign="top">
+
 <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshavardhanjakku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 <br><br>
 
 <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Harshavardhanjakku&theme=tokyonight&hide_border=true" />
+
 </td>
 
 <td width="4%"></td>
 
 <td width="48%" align="center" valign="top">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshavardhanjakku&theme=tokyonight" />
+
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshavardhanjakku&theme=tokyonight" />
+
 </td>
 
 </tr>
@@ -176,19 +180,16 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 <br><br>
 
 <p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=true&area=true&custom_title=🚀%20Contribution%20Activity" />
+</p>
+
+---
+## Github Contributions Activity
+<p align="center">
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=true&area=true&custom_title=🚀%20Contribution%20Activity" />
 </p>
 
-
-
-<table>
-<tr>
-<td>First row</td>
-</tr>
-<tr>
-<td>First row</td>
-</tr>
-</table>
+ 
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/output/snake.svg)
