@@ -174,10 +174,7 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 </td>
 
 </tr>
-</table>
-
-<br><br>
-
+</table> 
 
 ---
 ## Github Contributions Activity
