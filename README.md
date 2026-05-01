@@ -148,35 +148,47 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 
 ## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=Harshavardhanjakku&theme=tokyonight&row=1&margin-w=15&margin-h=15" />
-</p>
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harshavardhanjakku&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" /> </p>
 
 ---
+## GitHub Analytics
 
-## 📊 GitHub Stats
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+
+<td width="48%" align="center" valign="top">
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshavardhanjakku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Harshavardhanjakku&theme=tokyonight&hide_border=true" />
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" align="center" valign="top">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshavardhanjakku&theme=tokyonight" />
+</td>
+
+</tr>
+</table>
+
+<br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshavardhanjakku&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=true&area=true&custom_title=🚀%20Contribution%20Activity" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshavardhanjakku&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Harshavardhanjakku&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
-</p>
-
-## 📊 GitHub Contributor Statistics
-![GitHub Contributor Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshavardhanjakku&theme=tokyonight)
 
 
+<table>
+<tr>
+<td>First row</td>
+</tr>
+<tr>
+<td>First row</td>
+</tr>
+</table>
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/Harshavardhanjakku/Harshavardhanjakku/output/snake.svg)
