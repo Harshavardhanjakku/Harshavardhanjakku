@@ -153,28 +153,37 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 ---
 ## GitHub Analytics
 
-<table align="center" width="100%"  >
+<table align="center" width="100%">
 <tr>
-
-<td width="48%" align="center"  >
-
+<td  align="center">
 <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshavardhanjakku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<br><br>
+</td>
+<td align="center">
 
 <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Harshavardhanjakku&theme=tokyonight&hide_border=true" />
+</tr>
+
+<tr>
+
+<td   align="center">
+<img width="80%" height="10%"src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshavardhanjakku&theme=tokyonight" />
 
 </td>
- 
 
-<td width="48%" align="center"  >
-
-<img width="92%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshavardhanjakku&theme=tokyonight" />
-
+<td  align="center">
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshavardhanjakku&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+</td>
 </td>
 
 </tr>
-</table> 
+
+</table>
+
+<br>
+
+<p align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=true&area=true&custom_title=🚀%20Contribution%20Activity" />
+</p>
 
 ---
 ## Github Contributions Activity
