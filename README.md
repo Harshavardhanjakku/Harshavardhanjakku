@@ -181,10 +181,6 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 
 <br>
 
-<p align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshavardhanjakku&theme=react-dark&hide_border=true&area=true&custom_title=🚀%20Contribution%20Activity" />
-</p>
-
 ---
 ## Github Contributions Activity
 <p align="center">
