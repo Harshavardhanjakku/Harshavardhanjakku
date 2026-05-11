@@ -145,11 +145,11 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 * 🏁 Earned certifications in AWS, Generative AI, and Full Stack Development.
 * 📚 Ranked within the Top 10% academically for three consecutive years at SR University.
 * ⚡ Secured a Top 10 position in a 12-hour CodeClash hackathon by solving advanced algorithmic and data structure challenges under competitive conditions.
-* 📄 Led the publication of 3 patent innovations focused on AI, accessibility, and smart automation:
+* 📄 Superheaded the publication of 3 patent innovations focused on AI, accessibility, and smart automation:
 
-  * [Adaptive Learning System (7 Claims)](https://drive.google.com/file/d/1plunt4r4-DiZgSdl_-9xhZSWY6OnfYa4/view?utm_source=chatgpt.com)
-  * [IoT-Based Communal Book Exchange System (10 Claims)](https://drive.google.com/file/d/1AUZ_-DZfh7TEphYCgfgiXKPFW23qbl6p/view?utm_source=chatgpt.com)
-  * [Speech Enhancement Device (10 Claims)](https://drive.google.com/file/d/1r3dRVbJdx1zJ6E50oJzQdEiSWNpVNIY3/view?utm_source=chatgpt.com)
+  * [Adaptive Learning System (7 Claims)](https://drive.google.com/file/d/1plunt4r4-DiZgSdl_-9xhZSWY6OnfYa4)
+  * [IoT-Based Communal Book Exchange System (10 Claims)](https://drive.google.com/file/d/1AUZ_-DZfh7TEphYCgfgiXKPFW23qbl6p )
+  * [Speech Enhancement Device (10 Claims)](https://drive.google.com/file/d/1r3dRVbJdx1zJ6E50oJzQdEiSWNpVNIY3)
 * 🤖 Developed an innovative AI chatbot during SIH that automated over 150+ common customer support queries, allowing teams to focus on high-priority and complex issues.
 * 🥉 Achieved a Top 3 position in SR University’s Project Expo for “Mentor Connect,” integrating advanced voice recognition for real-time accessibility solutions.
 * 🏅 Secured 1st place in the Launch Code DSA Contest, earning CSI membership and demonstrating strong expertise in Data Structures & Algorithms while improving code efficiency by 15% during competition rounds.
