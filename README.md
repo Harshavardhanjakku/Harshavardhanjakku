@@ -136,25 +136,23 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 </p>
 
 ---
-
 ## 🏆 Achievements
 
-* 🥇 Won the Idea Conclave at SR University for developing an AI-powered chatbot solution.
-* 🧠 Finalist in the Smart India Hackathon Grand Finale, where an AI chatbot was designed to automate responses for 150+ customer queries, improving operational efficiency and reducing manual workload.
-* 👨‍💻 Ranked among the Top 10 performers in both academic GPA and the IEEE TEMS CodeClash competition at VIT Vellore.
-* 🏁 Earned certifications in AWS, Generative AI, and Full Stack Development.
-* 📚 Ranked within the Top 10% academically for three consecutive years at SR University.
-* ⚡ Secured a Top 10 position in a 12-hour CodeClash hackathon by solving advanced algorithmic and data structure challenges under competitive conditions.
-* 📄 Superheaded the publication of 3 patent innovations focused on AI, accessibility, and smart automation:
+* 🥇 Secured **1st Place** in the SRU Idea Conclave for the **IoT-Based Community Book Exchange Box** project.
+* 🧠 Shortlisted in the **Top 5 Teams** at the Smart India Hackathon Grand Finale.
+* 👨‍💻 Ranked in the **Top 10** at the IEEE TEMS CodeClash conducted by VIT Vellore.
+* 📚 Ranked among the **Top 10% academically** for 3 consecutive years at SR University.
+* ⚡ Secured a **Top 10 position** in a 12-hour CodeClash Hackathon focused on Algorithms & Data Structures.
+* 📄 Spearheaded the publication of 3 patents:
 
-  * [Adaptive Learning System (7 Claims)](https://drive.google.com/file/d/1plunt4r4-DiZgSdl_-9xhZSWY6OnfYa4)
-  * [IoT-Based Communal Book Exchange System (10 Claims)](https://drive.google.com/file/d/1AUZ_-DZfh7TEphYCgfgiXKPFW23qbl6p )
-  * [Speech Enhancement Device (10 Claims)](https://drive.google.com/file/d/1r3dRVbJdx1zJ6E50oJzQdEiSWNpVNIY3)
-* 🤖 Developed an innovative AI chatbot during SIH that automated over 150+ common customer support queries, allowing teams to focus on high-priority and complex issues.
-* 🥉 Achieved a Top 3 position in SR University’s Project Expo for “Mentor Connect,” integrating advanced voice recognition for real-time accessibility solutions.
-* 🏅 Secured 1st place in the Launch Code DSA Contest, earning CSI membership and demonstrating strong expertise in Data Structures & Algorithms while improving code efficiency by 15% during competition rounds.
-* 💡 Solved 400+ problems on LeetCode, built 55+ GitHub projects, and actively led 2 student organizations focused on technical development and hackathon initiatives.
-* 🚀 Finalist in Hackronyx, selected among 3300+ participating teams and finishing in the Top 10 nationwide.
+  * [Adaptive Learning System (7 Claims)](https://drive.google.com/file/d/1plunt4r4-DiZgSdl_-9xhZSWY6OnfYa4/view?utm_source=chatgpt.com)
+  * [IoT-Based Communal Book Exchange System (10 Claims)](https://drive.google.com/file/d/1AUZ_-DZfh7TEphYCgfgiXKPFW23qbl6p/view?utm_source=chatgpt.com)
+  * [Speech Enhancement Device (10 Claims)](https://drive.google.com/file/d/1r3dRVbJdx1zJ6E50oJzQdEiSWNpVNIY3/view?utm_source=chatgpt.com)
+* 🥉 Achieved **Top 3 Position** in SR University’s Project Expo for the “Mentor Connect” project.
+* 🏅 Secured **1st Place** in the Launch Code DSA Contest and earned CSI Membership.
+* 💡 Solved **400+ LeetCode problems** and built **55+ GitHub projects**.
+* 🚀 Finalist in Hackronyx, selected among **3300+ teams** and finishing in the **Top 10 nationwide**.
+* 🏁 Earned certifications in **AWS, Generative AI, and Full Stack Development**.
 
 ---
 
