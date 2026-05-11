@@ -138,22 +138,22 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 ---
 ## 🏆 Achievements
 
-* 🥇 Secured **1st Place** in the SRU Idea Conclave for the **IoT-Based Community Book Exchange Box** project.
-* 🧠 Shortlisted in the **Top 5 Teams** at the Smart India Hackathon Grand Finale.
-* 👨‍💻 Ranked in the **Top 10** at the IEEE TEMS CodeClash conducted by VIT Vellore.
-* 📚 Ranked among the **Top 10% academically** for 3 consecutive years at SR University.
-* ⚡ Secured a **Top 10 position** in a 12-hour CodeClash Hackathon focused on Algorithms & Data Structures.
-* 📄 Spearheaded the publication of 3 patents:
+* <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="18"/> Secured **1st Place** in the SRU Idea Conclave for the **IoT-Based Community Book Exchange Box** project.
+* <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="18"/> Shortlisted in the **Top 5 Teams** at the Smart India Hackathon Grand Finale.
+* <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="18"/> Ranked in the **Top 10** at the IEEE TEMS CodeClash conducted by VIT Vellore.
+* <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" width="18"/> Ranked among the **Top 10% academically** for 3 consecutive years at SR University.
+* <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="18"/> Secured a **Top 10 position** in a 12-hour CodeClash Hackathon focused on Algorithms & Data Structures.
+* <img src="https://cdn-icons-png.flaticon.com/512/2920/2920329.png" width="18"/> Spearheaded the publication of 3 patents:
 
-  * [Adaptive Learning System (7 Claims)](https://drive.google.com/file/d/1plunt4r4-DiZgSdl_-9xhZSWY6OnfYa4/view?utm_source=chatgpt.com)
-  * [IoT-Based Communal Book Exchange System (10 Claims)](https://drive.google.com/file/d/1AUZ_-DZfh7TEphYCgfgiXKPFW23qbl6p/view?utm_source=chatgpt.com)
-  * [Speech Enhancement Device (10 Claims)](https://drive.google.com/file/d/1r3dRVbJdx1zJ6E50oJzQdEiSWNpVNIY3/view?utm_source=chatgpt.com)
-* 🥉 Achieved **Top 3 Position** in SR University’s Project Expo for the “Mentor Connect” project.
-* 🏅 Secured **1st Place** in the Launch Code DSA Contest and earned CSI Membership.
-* 💡 Solved **400+ LeetCode problems** and built **55+ GitHub projects**.
-* 🚀 Finalist in Hackronyx, selected among **3300+ teams** and finishing in the **Top 10 nationwide**.
-* 🏁 Earned certifications in **AWS, Generative AI, and Full Stack Development**.
+  * [Adaptive Learning System (7 Claims)](https://drive.google.com/file/d/1plunt4r4-DiZgSdl_-9xhZSWY6OnfYa4/view)
+  * [IoT-Based Communal Book Exchange System (10 Claims)](https://drive.google.com/file/d/1AUZ_-DZfh7TEphYCgfgiXKPFW23qbl6p/view)
+  * [Speech Enhancement Device (10 Claims)](https://drive.google.com/file/d/1r3dRVbJdx1zJ6E50oJzQdEiSWNpVNIY3/view)
 
+* <img src="https://cdn-icons-png.flaticon.com/512/2583/2583319.png" width="18"/> Achieved **Top 3 Position** in SR University’s Project Expo for the “Mentor Connect” project.
+* <img src="https://cdn-icons-png.flaticon.com/512/3176/3176292.png" width="18"/> Secured **1st Place** in the Launch Code DSA Contest and earned CSI Membership.
+* <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="18"/> Solved **400+ LeetCode problems** and built **55+ GitHub projects**.
+* <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="18"/> Finalist in Hackronyx, selected among **3300+ teams** and finishing in the **Top 10 nationwide**.
+* <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="18"/> Earned certifications in **AWS, Generative AI, and Full Stack Development**.
 ---
 
 ## 🏆 Trophies
