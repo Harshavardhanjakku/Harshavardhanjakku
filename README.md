@@ -139,10 +139,22 @@ Turns fragmented data into coherent, context-aware conversations using embedding
 
 ## 🏆 Achievements
 
-- 🥇 Winner of SRU Idea Conclave for an AI chatbot project
-- 🧠 Finalist in **SIH Hackathon Grand Finale**, automated 150+ customer queries
-- 👨‍💻 Ranked Top 10 in GPA & IEEE TEMS CodeClash at VIT Vellore
-- 🏁 Completed AWS, Generative AI, and Full Stack certifications
+* 🥇 Won the Idea Conclave at SR University for developing an AI-powered chatbot solution.
+* 🧠 Finalist in the Smart India Hackathon Grand Finale, where an AI chatbot was designed to automate responses for 150+ customer queries, improving operational efficiency and reducing manual workload.
+* 👨‍💻 Ranked among the Top 10 performers in both academic GPA and the IEEE TEMS CodeClash competition at VIT Vellore.
+* 🏁 Earned certifications in AWS, Generative AI, and Full Stack Development.
+* 📚 Ranked within the Top 10% academically for three consecutive years at SR University.
+* ⚡ Secured a Top 10 position in a 12-hour CodeClash hackathon by solving advanced algorithmic and data structure challenges under competitive conditions.
+* 📄 Led the publication of 3 patent innovations focused on AI, accessibility, and smart automation:
+
+  * [Adaptive Learning System (7 Claims)](https://drive.google.com/file/d/1plunt4r4-DiZgSdl_-9xhZSWY6OnfYa4/view?utm_source=chatgpt.com)
+  * [IoT-Based Communal Book Exchange System (10 Claims)](https://drive.google.com/file/d/1AUZ_-DZfh7TEphYCgfgiXKPFW23qbl6p/view?utm_source=chatgpt.com)
+  * [Speech Enhancement Device (10 Claims)](https://drive.google.com/file/d/1r3dRVbJdx1zJ6E50oJzQdEiSWNpVNIY3/view?utm_source=chatgpt.com)
+* 🤖 Developed an innovative AI chatbot during SIH that automated over 150+ common customer support queries, allowing teams to focus on high-priority and complex issues.
+* 🥉 Achieved a Top 3 position in SR University’s Project Expo for “Mentor Connect,” integrating advanced voice recognition for real-time accessibility solutions.
+* 🏅 Secured 1st place in the Launch Code DSA Contest, earning CSI membership and demonstrating strong expertise in Data Structures & Algorithms while improving code efficiency by 15% during competition rounds.
+* 💡 Solved 400+ problems on LeetCode, built 55+ GitHub projects, and actively led 2 student organizations focused on technical development and hackathon initiatives.
+* 🚀 Finalist in Hackronyx, selected among 3300+ participating teams and finishing in the Top 10 nationwide.
 
 ---
 
