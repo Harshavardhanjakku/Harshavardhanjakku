@@ -210,6 +210,9 @@ Turns fragmented data into coherent, context-aware conversations using embedding
   <a href="https://www.linkedin.com/in/harshavardhan-jakku-26672427a" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" />
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jakkuharshavardhan2004@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" />
+  </a>
   <a href="https://github.com/Harshavardhanjakku" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" />
   </a>&nbsp;&nbsp;&nbsp;
@@ -219,9 +222,10 @@ Turns fragmented data into coherent, context-aware conversations using embedding
   <a href="https://www.hackerrank.com/profile/2203A51012harsha" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="32" />
   </a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:jakkuharshavardhan2004@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" />
-</a>
+  <a href="https://www.credly.com/users/jakku-harshavardhan/badges#credly" target="_blank">
+    <img src="https://img.icons8.com/color/48/credly.png" width="32" />
+  </a>&nbsp;&nbsp;&nbsp;
+
 </p>
 
 ---
