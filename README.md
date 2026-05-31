@@ -212,9 +212,9 @@ Turns fragmented data into coherent, context-aware conversations using embedding
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:jakkuharshavardhan2004@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Harshavardhanjakku" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" />
+    <img src="icons/github.png" width="32" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/jakkuharshavardhan/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
